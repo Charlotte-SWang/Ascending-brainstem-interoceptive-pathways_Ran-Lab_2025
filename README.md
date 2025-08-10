@@ -1,6 +1,6 @@
 # Ascending-brainstem-interoceptive-pathways_Ran-Lab_2025
 
-## Code for analysis
+## Codes
 1. Figure 2 MAPSeq: refer to the Jupyter notebook file in the MAPSeq folder. Data and labels included.
 
    
