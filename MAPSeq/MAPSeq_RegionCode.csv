@@ -1,0 +1,42 @@
+﻿Name,B1,B1_index
+Cord 1,1,0
+Cord 2,2,1
+Cord 3,3,2
+Cord 4,4,3
+Cord 5,5,4
+VLM-L,6,5
+VLM-R,7,6
+LC-L,8,7
+LC-R,9,8
+LPB-L,10,9
+LPB-R,11,10
+DR,12,11
+PAG,13,12
+PVH,14,13
+Arc,15,14
+DMH,16,15
+VPM-L,17,16
+VPM-R,18,17
+CeA-L,19,18
+CeA-R,20,19
+LH-L,21,20
+LH-R,22,21
+PVT,23,22
+ZI-L,24,23
+ZI-R,25,24
+SN-L,26,25
+SN-R,27,26
+VTA,28,27
+V1,29,28
+VMPO,30,29
+BNST-L,31,30
+BNST-R,32,31
+NAc-L,33,32
+NAc-R,34,33
+Negative,36,34
+WT RNA control ,37,35
+L1 target,38,36
+Water target ,39,37
+NTS-L,40,38
+NTS-R,41,39
+water injection,42,40
